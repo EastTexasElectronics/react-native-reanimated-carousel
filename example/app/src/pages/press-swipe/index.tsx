@@ -94,7 +94,7 @@ const CustomItem: React.FC<ItemProps> = ({ pressAnim, source }) => {
     <Animated.View style={[{ flex: 1, overflow: "hidden" }, animStyle]}>
       <Animated.Image
         source={source}
-        resizeMode="center"
+        contentFit="center"
         style={{ width: "100%", height: "100%" }}
       />
     </Animated.View>

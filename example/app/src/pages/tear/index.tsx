@@ -116,7 +116,7 @@ const Item: React.FC<ItemProps> = ({ width, imageSource, animationValue }) => {
             left: 0,
             position: "absolute",
           }}
-          resizeMode="cover"
+          contentFit="cover"
         />
       </Animated.View>
       <Animated.View
@@ -139,7 +139,7 @@ const Item: React.FC<ItemProps> = ({ width, imageSource, animationValue }) => {
             right: 0,
             position: "absolute",
           }}
-          resizeMode="cover"
+          contentFit="cover"
         />
       </Animated.View>
     </View>

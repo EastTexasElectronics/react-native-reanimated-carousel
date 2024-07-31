@@ -1731,7 +1731,7 @@ exports[`<Carousel /> renders blurParallax correctly 1`] = `
         }
       >
         <Image
-          resizeMode="contain"
+          contentFit="contain"
           source={1}
           style={
             Object {
@@ -1833,7 +1833,7 @@ exports[`<Carousel /> renders blurParallax correctly 1`] = `
         }
       >
         <Image
-          resizeMode="contain"
+          contentFit="contain"
           source={1}
           style={
             Object {
@@ -1935,7 +1935,7 @@ exports[`<Carousel /> renders blurParallax correctly 1`] = `
         }
       >
         <Image
-          resizeMode="contain"
+          contentFit="contain"
           source={1}
           style={
             Object {
@@ -2037,7 +2037,7 @@ exports[`<Carousel /> renders blurParallax correctly 1`] = `
         }
       >
         <Image
-          resizeMode="contain"
+          contentFit="contain"
           source={1}
           style={
             Object {
@@ -2139,7 +2139,7 @@ exports[`<Carousel /> renders blurParallax correctly 1`] = `
         }
       >
         <Image
-          resizeMode="contain"
+          contentFit="contain"
           source={1}
           style={
             Object {
@@ -2241,7 +2241,7 @@ exports[`<Carousel /> renders blurParallax correctly 1`] = `
         }
       >
         <Image
-          resizeMode="contain"
+          contentFit="contain"
           source={1}
           style={
             Object {
@@ -30773,7 +30773,7 @@ exports[`<Carousel /> renders parallaxLayers correctly 1`] = `
             }
           }
           collapsable={false}
-          resizeMode="contain"
+          contentFit="contain"
           source={1}
           style={
             Object {
@@ -30916,7 +30916,7 @@ exports[`<Carousel /> renders parallaxLayers correctly 1`] = `
             }
           }
           collapsable={false}
-          resizeMode="contain"
+          contentFit="contain"
           source={1}
           style={
             Object {
@@ -31059,7 +31059,7 @@ exports[`<Carousel /> renders parallaxLayers correctly 1`] = `
             }
           }
           collapsable={false}
-          resizeMode="contain"
+          contentFit="contain"
           source={1}
           style={
             Object {
@@ -31956,7 +31956,7 @@ exports[`<Carousel /> renders pressSwipe correctly 1`] = `
             }
           }
           collapsable={false}
-          resizeMode="center"
+          contentFit="center"
           source={1}
           style={
             Object {
@@ -32030,7 +32030,7 @@ exports[`<Carousel /> renders pressSwipe correctly 1`] = `
             }
           }
           collapsable={false}
-          resizeMode="center"
+          contentFit="center"
           source={1}
           style={
             Object {
@@ -32104,7 +32104,7 @@ exports[`<Carousel /> renders pressSwipe correctly 1`] = `
             }
           }
           collapsable={false}
-          resizeMode="center"
+          contentFit="center"
           source={1}
           style={
             Object {
@@ -32178,7 +32178,7 @@ exports[`<Carousel /> renders pressSwipe correctly 1`] = `
             }
           }
           collapsable={false}
-          resizeMode="center"
+          contentFit="center"
           source={1}
           style={
             Object {
@@ -32252,7 +32252,7 @@ exports[`<Carousel /> renders pressSwipe correctly 1`] = `
             }
           }
           collapsable={false}
-          resizeMode="center"
+          contentFit="center"
           source={1}
           style={
             Object {
@@ -32326,7 +32326,7 @@ exports[`<Carousel /> renders pressSwipe correctly 1`] = `
             }
           }
           collapsable={false}
-          resizeMode="center"
+          contentFit="center"
           source={1}
           style={
             Object {
@@ -35278,7 +35278,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -35336,7 +35336,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -35487,7 +35487,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -35545,7 +35545,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -35696,7 +35696,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -35754,7 +35754,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -35905,7 +35905,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -35963,7 +35963,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -36114,7 +36114,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -36172,7 +36172,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -36323,7 +36323,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -36381,7 +36381,7 @@ exports[`<Carousel /> renders stackCards correctly 1`] = `
                   }
                 }
                 collapsable={false}
-                resizeMode="center"
+                contentFit="center"
                 source={1}
                 style={
                   Object {
@@ -36500,7 +36500,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -36538,7 +36538,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -36616,7 +36616,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -36654,7 +36654,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -36732,7 +36732,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -36770,7 +36770,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -36848,7 +36848,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -36886,7 +36886,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -36964,7 +36964,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -37002,7 +37002,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -37080,7 +37080,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {
@@ -37118,7 +37118,7 @@ exports[`<Carousel /> renders tear correctly 1`] = `
               }
             }
             collapsable={false}
-            resizeMode="cover"
+            contentFit="cover"
             source={1}
             style={
               Object {

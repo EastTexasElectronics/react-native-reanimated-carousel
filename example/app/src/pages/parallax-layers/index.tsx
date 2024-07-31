@@ -178,7 +178,7 @@ const Card: React.FC<{
           },
           blockStyle,
         ]}
-        resizeMode={"contain"}
+        contentFit={"contain"}
       />
     </Animated.View>
   );

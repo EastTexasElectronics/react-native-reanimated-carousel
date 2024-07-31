@@ -105,7 +105,7 @@ export const Arrow: React.FC<{
       >
         <Animated.Image
           source={require("../../../assets/arrow-up.png")}
-          resizeMode="center"
+          contentFit="center"
           style={[arrowStyle, { height: "100%" }]}
         />
       </Animated.View>
@@ -117,7 +117,7 @@ export const Arrow: React.FC<{
       >
         <Animated.Image
           source={require("../../../assets/arrow-up.png")}
-          resizeMode="center"
+          contentFit="center"
           style={[arrowStyle, { height: "100%" }]}
         />
       </Animated.View>

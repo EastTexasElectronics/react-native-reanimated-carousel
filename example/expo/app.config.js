@@ -8,7 +8,7 @@ export default () => {
     userInterfaceStyle: "light",
     splash: {
       image: "./assets/splash.png",
-      resizeMode: "contain",
+      contentFit: "contain",
       backgroundColor: "#ffffff",
     },
     updates: {
